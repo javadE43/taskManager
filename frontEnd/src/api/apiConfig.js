@@ -1,5 +1,5 @@
 const apiConfig = {
-    baseUrl: 'http://localhost:4000/api/',
+    baseUrl: 'http://localhost:4000/api/v1/',
     // originalImage: (imgPath) => `https://image.tmdb.org/t/p/original/${imgPath}`,
     // w500Image: (imgPath) => `https://image.tmdb.org/t/p/w500/${imgPath}`
 }
